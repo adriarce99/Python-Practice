@@ -1,0 +1,1 @@
+Este repositorio son pequeños ejemplos de representaciones gráficas de funciones para posteriores trabajos
